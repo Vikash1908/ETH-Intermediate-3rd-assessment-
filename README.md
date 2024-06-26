@@ -69,5 +69,5 @@ contract MyToken is ERC20, Ownable {
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Vikash Kumar Singh License.
 
